@@ -8,7 +8,7 @@ The DCUA contains restrictions on how you can use the data. We would like to dra
 
 - No commercial use.
 - You cannot transfer or reproduce any part of the data set. This includes publishing parts of users' posts.
-- You cannot attempt to identify any user in the data set.
+- You cannot attempt to identify any user in the dataset.
 
 If your institution has issues with language in the DCUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
