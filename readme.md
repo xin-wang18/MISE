@@ -1,6 +1,12 @@
 ## MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
 Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation"
 
+## News 🗞️
+
+
+* **🔥 [2025/04/29] (update #1):** We public the first version of the [stressor dataset](https://github.com/xin-wang18/MISE/edit/main/data_e) in English. Let's go!  
+
+
 ### DCUA
 To receive access, you will need to read, sign, and send back the attached data and code usage agreement (DCUA).
 
