@@ -8,7 +8,7 @@ Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media
 
 
 ### CUA
-To receive access, you will need to read, sign, and send back the attached data and code usage agreement (DCUA).
+To receive access of code, you will need to read, sign, and send back the attached data and code usage agreement (CUA).
 
 The CUA contains restrictions on how you can use the data. We would like to draw your attention to several restrictions in particular:
 
