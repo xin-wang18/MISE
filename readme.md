@@ -3,7 +3,7 @@ Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media
 
 ## News 🗞️
 
-* **🔥 [2025/04/29] (update #2):** We public the new English version of the [stressor dataset](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) in Kaggle. Let's go! 
+* **🔥 [2025/05/01] (update #2):** We public the new English version of the [stressor dataset](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) in Kaggle. Let's go! 
 * **🔥 [2025/04/29] (update #1):** We public the first version of the stressor dataset.  
 
 ## Dataset
