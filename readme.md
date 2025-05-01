@@ -35,4 +35,18 @@ If your institution has issues with language in the CUA, please have the respons
 Once the Primary Investigator has signed the CUA, the Primary Investigator should email the signed form to wangxin_6961@163.com
 
 ### Citation  
-Wang, Xin, et al. *"MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation."* Proceedings of the ACM on Web Conference 2025.
+## 8. Citation
+```bibtex
+@inbook{10.1145/3696410.3714901,
+author = {Wang, Xin and Feng, Ling and Zhang, Huijun and Cao, Lei and Zeng, Kaisheng and Li, Qi and Ding, Yang and Dai, Yi and Clifton, David},
+title = {MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation},
+year = {2025},
+isbn = {9798400712746},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3696410.3714901},
+booktitle = {Proceedings of the ACM on Web Conference 2025},
+pages = {1866–1876},
+numpages = {11}
+}
+```
