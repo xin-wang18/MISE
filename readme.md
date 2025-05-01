@@ -10,7 +10,7 @@ Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media
 A *stressor* is a specific cause or trigger of an individual’s mental health issue, such as stress, anxiety, or suicidal thoughts. Identifying stressors is a key step toward understanding and improving mental well-being.
 
 ### Content  
-This dataset contains **4,001 manually annotated online posts** collected from **June 2018 to June 2022**. Each sample includes the following fields:
+This dataset contains **manually annotated online posts** collected from **June 2018 to June 2022**. Each sample includes the following fields:
 
 - `text`: The content of the individual's post.  
 - `labels`: The identified stressor(s) within the post, including their start and end positions (word-level).  
@@ -23,7 +23,10 @@ By default, we divide the data based on time to simulate a real-world scenario: 
 
 However, you are free to re-partition the dataset based on your specific task or experimental design.
 
-### CUA
+### Note
+Some samples in the original Chinese data are untranslatable. Please email me if you need access to the original version.
+
+## CUA
 To receive access of code, you will need to read, sign, and send back the attached data and code usage agreement (CUA).
 
 The CUA contains restrictions on how you can use the code. We would like to draw your attention to several restrictions in particular:
