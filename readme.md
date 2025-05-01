@@ -34,3 +34,6 @@ The CUA contains restrictions on how you can use the code. We would like to draw
 If your institution has issues with language in the CUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
 Once the Primary Investigator has signed the CUA, the Primary Investigator should email the signed form to wangxin_6961@163.com
+
+### Citation  
+Wang, Xin, et al. *"MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation."* Proceedings of the ACM on Web Conference 2025.
