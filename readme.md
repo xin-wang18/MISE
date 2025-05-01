@@ -10,7 +10,7 @@ Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media
 A *stressor* is a specific cause or trigger of an individual’s mental health issue, such as stress, anxiety, or suicidal thoughts. Identifying stressors is a key step toward understanding and improving mental well-being.
 
 ### Content  
-This dataset contains **manually annotated online posts** collected from **June 2018 to June 2022**. Each sample includes the following fields:
+This dataset contains manually annotated online posts collected from June 2018 to June 2022. Each sample includes the following fields:
 
 - `text`: The content of the individual's post.  
 - `labels`: The identified stressor(s) within the post, including their start and end positions (word-level).  
