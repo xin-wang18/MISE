@@ -1,0 +1,7 @@
+{
+  "O": 0,
+  "B-STRESSOR": 1,
+  "I-STRESSOR": 2,
+  "E-STRESSOR": 3,
+  "S-STRESSOR": 4
+}
