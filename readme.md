@@ -2,7 +2,7 @@
 Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation"
 
 ## News 🗞️
-* **🔥 [2025/12/01](update #2):** We public the code. Let's go! 
+* **🔥 [2025/12/01] (update #2):** We public the code. Let's go! 
 * **🔥 [2025/05/01] (update #1):** We public a English version of the stressor dataset in [Kaggle](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) and [Hugging Face](https://huggingface.co/datasets/XinWangcs/Stressor). Let's go! 
 
 ## Dataset
@@ -26,16 +26,16 @@ However, you are free to re-partition the dataset based on your specific task or
 ### Note
 Some samples in the original Chinese data are untranslatable. Please email me if you need access to the original version.
 
-## CUA
-To receive access of code, you will need to read, sign, and send back the attached data and code usage agreement (CUA).
+## DUA
+To receive access of orginal chinese posts, you will need to read, sign, and send back the attached data and data usage agreement (DUA).
 
-The CUA contains restrictions on how you can use the code. We would like to draw your attention to several restrictions in particular:
+The DUA contains restrictions on how you can use the code. We would like to draw your attention to several restrictions in particular:
 
 - No commercial use.
 
-If your institution has issues with language in the CUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
+If your institution has issues with language in the DUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
-Once the Primary Investigator has signed the CUA, the Primary Investigator should email the signed form to wangxin_6961@163.com
+Once the Primary Investigator has signed the DUA, the Primary Investigator should email the signed form to wangxin_6961@163.com
 
 ### Citation
 ```bibtex
