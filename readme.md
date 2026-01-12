@@ -27,7 +27,7 @@ However, you are free to re-partition the dataset based on your specific task or
 Some samples in the original Chinese data are untranslatable. Please email me if you need access to the original version.
 
 ## DUA
-To receive access of orginal chinese posts, you will need to read, sign, and send back the attached data and data usage agreement (DUA).
+To receive access of orginal chinese posts, you will need to read, sign, and send back the attached data usage agreement (DUA).
 
 The DUA contains restrictions on how you can use the code. We would like to draw your attention to several restrictions in particular:
 
