@@ -5,6 +5,11 @@ Code and dataset of the paper:"MISE: Meta-knowledge Inheritance for Social Media
 * **🔥 [2025/12/01] (update #2):** We public the code. Let's go! 
 * **🔥 [2025/05/01] (update #1):** We public a English version of the stressor dataset in [Kaggle](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) and [Hugging Face](https://huggingface.co/datasets/XinWangcs/Stressor). Let's go! 
 
+### Quick Start
+```shell
+bash run.sh
+```
+
 ## Dataset
 ### Context  
 A *stressor* is a specific cause or trigger of an individual’s mental health issue, such as stress, anxiety, or suicidal thoughts. Identifying stressors is a key step toward understanding and improving mental well-being.
